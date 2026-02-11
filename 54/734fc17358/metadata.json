@@ -1,0 +1,36 @@
+{
+  "cli_version": "0.4.2",
+  "checkpoint_id": "54734fc17358",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "CLAUDE.md",
+    "README.md",
+    "justfile",
+    "src/what_is_entire/__init__.py",
+    "src/what_is_entire/__pycache__/__init__.cpython-312.pyc",
+    "tests/__pycache__/__init__.cpython-312.pyc",
+    "tests/__pycache__/test_placeholder.cpython-312-pytest-9.0.2.pyc",
+    "tests/__pycache__/test_session_id.cpython-312-pytest-9.0.2.pyc",
+    "tests/test_placeholder.py",
+    "tests/test_session_id.py",
+    "tmp/hook-errors.log"
+  ],
+  "sessions": [
+    {
+      "metadata": "/54/734fc17358/0/metadata.json",
+      "transcript": "/54/734fc17358/0/full.jsonl",
+      "context": "/54/734fc17358/0/context.md",
+      "content_hash": "/54/734fc17358/0/content_hash.txt",
+      "prompt": "/54/734fc17358/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 417,
+    "cache_creation_tokens": 22185,
+    "cache_read_tokens": 1846146,
+    "output_tokens": 8752,
+    "api_call_count": 57
+  }
+}

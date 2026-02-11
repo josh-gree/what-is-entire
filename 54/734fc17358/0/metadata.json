@@ -1,0 +1,39 @@
+{
+  "cli_version": "0.4.2",
+  "checkpoint_id": "54734fc17358",
+  "session_id": "d14f6bdb-3e7b-4135-8287-559bfdcb9a94",
+  "strategy": "manual-commit",
+  "created_at": "2026-02-11T12:03:06.623653Z",
+  "branch": "main",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "CLAUDE.md",
+    "README.md",
+    "justfile",
+    "src/what_is_entire/__init__.py",
+    "src/what_is_entire/__pycache__/__init__.cpython-312.pyc",
+    "tests/__pycache__/__init__.cpython-312.pyc",
+    "tests/__pycache__/test_placeholder.cpython-312-pytest-9.0.2.pyc",
+    "tests/__pycache__/test_session_id.cpython-312-pytest-9.0.2.pyc",
+    "tests/test_placeholder.py",
+    "tests/test_session_id.py",
+    "tmp/hook-errors.log"
+  ],
+  "agent": "Claude Code",
+  "token_usage": {
+    "input_tokens": 417,
+    "cache_creation_tokens": 22185,
+    "cache_read_tokens": 1846146,
+    "output_tokens": 8752,
+    "api_call_count": 57
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-02-11T12:03:06.610323Z",
+    "agent_lines": 43,
+    "human_added": 0,
+    "human_modified": 180,
+    "human_removed": 20,
+    "total_committed": 43,
+    "agent_percentage": 100
+  }
+}
